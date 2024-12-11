@@ -1,5 +1,3 @@
-# ProVital-
-
 # ProVital - Lifestyle Medicine Platform
 
 ProVital is a modern web application built with React and Vite that connects users with lifestyle medicine experts. The platform focuses on the six pillars of lifestyle medicine and helps users book appointments with healthcare professionals.
@@ -49,6 +47,21 @@ To create a production build:
 npm run build
 ```
 
+## Dependencies
+
+- React (v18.3.1)
+- React DOM (v18.3.1)
+- React Router DOM (v7.0.2)
+- Lucide React (v0.468.0)
+- React Icons (v5.4.0)
+- SASS (v1.82.0)
+
+## Dev Dependencies
+
+- Vite (v6.0.1)
+- ESLint (v9.15.0)
+- Various ESLint plugins for React
+- TypeScript types for React
 
 ## Project Structure
 
